@@ -8,7 +8,8 @@ a{
     border-bottom: 3px solid black;
     margin: 10px;
 }
-
+header img{
+    windth: auto;}
 .a{
     text-align: center;
 }
